@@ -8,6 +8,12 @@ Project description. The quick brown fox jumped over the lazy dog. The quick bro
 * [ ] [[ABC0007]]
 * [ ] [[ABC0008]]
 
+## Emoji Tags
+- 🟥 Bug
+- 🟦 Feature
+- 🟪 Enhancement
+- 🟨 Milestone
+
 ## Current Sprint 1
 Goals: The quick brown fox jumped over the lazy dog.
 
