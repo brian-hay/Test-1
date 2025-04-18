@@ -2,6 +2,8 @@
 
 Project description. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
 
+> Project description. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.
+
 ## Milestones
 * [x] [[ABC0005]]
 * [x] [[ABC0006]]
